@@ -30,7 +30,7 @@ public class GuessTheNumber {
         }
 
         if (low > high) {
-            System.out.println("Hmm, something went wrong. Are you sure you answered correctly?");
+            System.out.println("Hmm, something went wrong. Are you sure you answered correctly???");
         }
 
         scanner.close();
